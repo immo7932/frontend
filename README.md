@@ -130,17 +130,3 @@ Contributions are welcome! If you have suggestions, improvements, or features yo
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request detailing your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to check the `LICENSE` file for more details.
-
-## Acknowledgements
-
-- Thanks to all contributors and the community for continuous improvements and feedback.
-- Special thanks to any libraries, frameworks, or tools that contributed to this project.
-
-```
-
----
-
-This `README.md` provides a solid starting point for documenting your frontend repository. Adjust the sections based on your project's needs and any additional tools or frameworks you include in the project. Enjoy coding!
